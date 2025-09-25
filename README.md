@@ -5,7 +5,8 @@ Elle couvre la gestion des **employés, commandes, factures, plats, stocks et r�
 
 ---
 
-[Capture d’écran du 2025-07-07 11-20-45](https://github.com/user-attachments/assets/a27792fb-0ed8-4dc0-83fa-a7ebeb64bb45)![Capture d’écran du 2025-07-07 11-20-55](https://github.com/user-attachments/assets/a8f06a2e-bd49-48c0-9c85-74aadfb9ecc1)
+[Capture d’écran du 2025-07-07 11-20-45](https://github.com/user-attachments/assets/a27792fb-0ed8-4dc0-83fa-a7ebeb64bb45)! 
+[Capture d’écran du 2025-07-07 11-20-55](https://github.com/user-attachments/assets/a8f06a2e-bd49-48c0-9c85-74aadfb9ecc1)
 
 
 ## 🎯 Objectifs
@@ -90,7 +91,7 @@ Elle couvre la gestion des **employés, commandes, factures, plats, stocks et r�
 ## 🛠️ Étapes d’installation
 ### 1. 📁 Cloner le dépôt GitHub
 ```
-     git clone https://github.com//Ombre_Afrique_Abeche_Restaurant.git
+https://github.com/IsmailMahamat315/Ombre_Afri-que_Abeche_Restaurant-master.git
      cd Ombre_Afrique_Abeche_Restaurant
 ```
 ## 🗃️ Créer la base de données dans MariaDB
