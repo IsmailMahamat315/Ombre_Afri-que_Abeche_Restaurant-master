@@ -5,8 +5,8 @@ Elle couvre la gestion des **employés, commandes, factures, plats, stocks et r�
 
 ---
 
-[Capture d’écran du 2025-07-07 11-20-45](https://github.com/user-attachments/assets/a27792fb-0ed8-4dc0-83fa-a7ebeb64bb45)! 
-[Capture d’écran du 2025-07-07 11-20-55](https://github.com/user-attachments/assets/a8f06a2e-bd49-48c0-9c85-74aadfb9ecc1)
+ ![Capture d’écran du 2025-07-07 11-20-45](https://github.com/user-attachments/assets/a27792fb-0ed8-4dc0-83fa-a7ebeb64bb45)! 
+ ![Capture d’écran du 2025-07-07 11-20-55](https://github.com/user-attachments/assets/a8f06a2e-bd49-48c0-9c85-74aadfb9ecc1)
 
 
 ## 🎯 Objectifs
